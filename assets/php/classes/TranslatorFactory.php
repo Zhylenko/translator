@@ -41,7 +41,7 @@
 				"to" => $tl,
 				"format" => "text",
 				"options" => [
-					"origin" => "reversodesktop",
+					"origin" => "translation.web",
 					"sentenceSplitter" => false,
 					"contextResults" => true,
 					"languageDetection" => false,
